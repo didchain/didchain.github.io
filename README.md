@@ -8,6 +8,20 @@
 - DID Chain 接口原型
 - DID Chain SDK
 - DID Chain 扩展
+ 
+Join our community on [Discord](https://discordapp.com/invite/MjsgWdbn)
+
+
+
+
+
+
+
+
+
+
+
+
 
 You can use the [editor on GitHub](https://github.com/didchain/didchain.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
