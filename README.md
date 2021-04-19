@@ -8,20 +8,27 @@
 - DID Chain 接口原型
 - DID Chain SDK
 - DID Chain 扩展
- 
-Join our community on [Discord](https://discordapp.com/invite/MjsgWdbn)
 
+### 使用说明
+- 新建或导入账号:
+下载app，选择->导入账号
+![new](/usage/1.png)
+- 扫码下方二维码导入测试账号，密码：123
+![qr](/usage/7.png)
+- 点击中间tab按钮，扫码登录[测试网站](http://39.99.198.143:60998/)
+![scan1](/usage/2.png)
+![scan](/usage/3.png)
 
+#### 测试网站
+![login](/usage/4.png)
 
+- 登陆成功
+![success](/usage/5.png)
 
+#### 网站登陆成功后。右上角可退出登陆，重复测试
+![logout](/usage/6.png)
 
-
-
-
-
-
-
-
+<!-- Join our community on [Discord](https://discordapp.com/invite/MjsgWdbn)
 
 You can use the [editor on GitHub](https://github.com/didchain/didchain.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -57,4 +64,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out. -->
